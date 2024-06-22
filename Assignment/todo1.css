@@ -1,0 +1,150 @@
+body {
+    background-color: rgb(240, 240, 245);
+    background-image: url(todo1.jpg);
+    background-size: cover;
+  }
+  
+  h1 {
+    margin-left: 450px;
+    width: 500px;
+    background-color: floralwhite;
+    text-align: center;
+  }
+  
+  select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+  }
+  
+  table {
+    border-style: solid;
+    border-width: 1px;
+    width: 500px;
+    background-color: black;
+  }
+  
+  .face {
+    display: inline-flex;
+  }
+  
+  .userInput {
+    display: block;
+    width: 500px;
+    margin-left: 450px;
+  }
+  
+  .userInput p {
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .userInput p,
+  .userInput button {
+    display: inline-flex;
+  }
+  
+  .explain {
+    display: block;
+    width: 280px;
+    padding: 20px;
+  }
+  
+  .explain p {
+    font-style: italic;
+  }
+  
+  #inputTable input {
+    width: 277px;
+  }
+  
+  .displayTables {
+    display: inline-flex;
+  }
+  
+  .unsorted {
+    width: 520px;
+    padding-right: 20px;
+    margin-left: 450px;
+  }
+  
+  .unsorted p {
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .unsorted p,
+  .unsorted button {
+    display: inline-flex;
+  }
+  
+  .displayTables td {
+    font-stretch: semi-condensed;
+    font-size: 15px;
+    
+  }
+  
+  .ranked {
+    width: 500px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 450px;
+  }
+  
+  .ranked p {
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  
+  
+  #taskDscrptn {
+    width: 300px;
+  }
+  
+  #userInfoSave {
+    background-color: rgb(153, 255, 153);
+    font-weight: bold;
+    font-size: 12px;
+    float: right;
+    color: black;
+  }
+  
+  #deletion {
+    background-color: rgb(255, 102, 102);
+    font-weight: bold;
+    font-size: 12px;
+    float: right;
+    color: black;
+  }
+  
+  #updateTime {
+    background-color: rgb(153, 204, 255);
+    font-weight: bold;
+    font-size: 12px;
+    float: right;
+    color: black;
+  }
+
+  th{
+    color: white;
+  }
+  td{
+    color: white;
+  }
+  .btn-default{
+    color: white;
+  }
+
+  select{
+    background-color: brown;
+  }
+
+  .btn{
+    color: white;
+
+  }
+
+  option{
+    color: white;
+  }
